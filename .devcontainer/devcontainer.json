@@ -6,10 +6,10 @@
     "args": {
       "USERNAME": "vscode",
       "GHC_VERSION": "9.0.2",
-      "STACK_VERSION": "2.7.5",
-      "STACK_RESOLVER": "lts-19.16",
+      "STACK_VERSION": "2.9.1",
+      "STACK_RESOLVER": "lts-19.29",
       "CABAL_VERSION": "3.6.2.0",
-      "HLS_VERSION": "1.7.0.0",
+      "HLS_VERSION": "1.8.0.0",
       "LLVM_VERSION": "14"
     },
     "context": "..",
